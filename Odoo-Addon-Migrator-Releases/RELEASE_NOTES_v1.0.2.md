@@ -18,3 +18,8 @@ Maintenance release for Windows and Ubuntu.
 The original addon directory remains unchanged. Static validation is not proof of runtime compatibility; install and test migrated addons on Odoo 19 before production use.
 
 Independent migration utility. Not affiliated with Odoo S.A.
+
+
+
+
+[Odoo-Addon-Migrator-Releases-1.0.6-windows.zip](https://github.com/user-attachments/files/33905628/Odoo-Addon-Migrator-Releases-1.0.6-windows.zip)
